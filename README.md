@@ -1,4 +1,4 @@
-# SmartCocoon Integration for Home Assistant
+# This is a test README file
 
 [![GitHub Release][releases-shield]][releases]
 [![GitHub Activity][commits-shield]][commits]
